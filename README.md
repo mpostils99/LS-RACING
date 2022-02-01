@@ -3,7 +3,7 @@ Formula 1 simulation videogame that allows the player to race a full F1 season a
 
 The program allows the player to configure his F1 car and compete with the rest of the vehicles, in pursuit of championship.
 
-Races are wathed in real time.
+Races are watched in real time.
 
 Concepts developed in this project:
 
