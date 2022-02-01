@@ -8,7 +8,8 @@ Races are watched in real time.
 Concepts developed in this project:
 
 - Processing of text and binary files.
-- Use of time.h library.
+- Work with the computer clock using the time.h library.
 - Use of dynamic memory.
 - Structuring the code into modules. 
-- Work with Allegro.
+- Implement and properly use of data structures such as queues or lists.
+- Work with external libraries, like Allegro.
