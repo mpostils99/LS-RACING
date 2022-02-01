@@ -5,7 +5,7 @@ The program allows the player to configure his F1 car and compete with the rest 
 
 Races are wathed in real time.
 
-Things we have done in this project:
+Concepts developed in this project:
 
 - Processing of text and binary files.
 - Use of time.h library.
